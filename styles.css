@@ -1,0 +1,25 @@
+body {
+    background-color:rgb(210, 216, 221);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hyperlink {
+    text-align: right;
+    padding: 1rem;
+    border: none;
+    cursor: pointer;
+    float: right;
+    margin: 0;
+}
+
+.hyperlink:hover {
+   color: brown;
+}
+
+.heading1 {
+    color:rgb(14, 4, 27);
+}
+
+footer {
+    padding: 1rem;
+}
