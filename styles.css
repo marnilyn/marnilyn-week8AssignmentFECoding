@@ -83,3 +83,8 @@ input[type=text], select, textarea {
   th {
     background-color: #d6cece;
   }
+
+  .otherservices {
+    color: rgb(20, 30, 216);
+    font-style: italic;
+  }
